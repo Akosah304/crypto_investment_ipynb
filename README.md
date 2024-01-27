@@ -1,6 +1,6 @@
 # Module 10 Challenge
 
-![](https://github.com/Akosah304/crypto_investment_ipynb/blob/main/Starter_Code/10-5-challenge-image.png)
+![](https://github.com/Akosah304/crypto_investment_ipynb/blob/main/Starter_Code/challenge-image.png)
 
 
 ## Background
